@@ -121,7 +121,9 @@ Here are some screenshots of the application:
 ![Homepage Screenshot](static/screenshots/homepage.png)
 
 ### Emotion Prediction:
-![Emotion Prediction Screenshot](static/screenshots/emotion_prediction.png)
+
+![image](https://github.com/user-attachments/assets/8e64bf46-1c5a-4b1b-97ff-105a55de1a87)
+
 
 ## Contributing
 
